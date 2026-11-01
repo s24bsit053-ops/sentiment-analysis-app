@@ -26,7 +26,7 @@ streamlit run app.py
 ```
 
 ## Live app
-(Add your Streamlit link here)
+https://movie-sentiment-aqsa.streamlit.app
 
 ## Limitations
 The dataset has no neutral class, so neutral text is forced into positive or negative. The model may also carry biases inherited from DistilBERT's pretraining data.
