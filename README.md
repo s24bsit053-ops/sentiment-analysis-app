@@ -12,7 +12,7 @@ Classify a movie review as **positive** or **negative** using a fine-tuned trans
 - Pretrained model: [distilbert/distilbert-base-uncased](https://huggingface.co/distilbert/distilbert-base-uncased)
 - Fine-tuned model: [aqsaahsan/sentiment-distilbert](https://huggingface.co/aqsaahsan/sentiment-distilbert)
 - Training: 3 epochs, learning rate 2e-5, batch size 16, max length 128
-- Test accuracy: Test accuracy: 83.6%
+- Test accuracy: 83.6%
 
 ## Project files
 - `app.py` - Streamlit application
