@@ -17,7 +17,7 @@ Classify a movie review as **positive** or **negative** using a fine-tuned trans
 ## Project files
 - `app.py` - Streamlit application
 - `requirements.txt` - dependencies
-- `notebooks/training.ipynb` - training notebook
+- `training.ipynb` - training notebook
 
 ## Run locally
 ```
